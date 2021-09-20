@@ -6,7 +6,7 @@ I'm Paulo Roberto Marques. I'm a coder.
   
 - 👨‍🚀 Cadet at [@42 São Paulo](https://www.42sp.org.br/) 
 - 🌱 I’m currently learning UNIX, Linux, C and Computer Science
-- 🔭 I’m currently working on **Born2beRoot**
+- 🔭 I’m currently working on **Minitalk**
 </header>
 
 <body><!-- Academic -->
