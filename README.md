@@ -29,7 +29,7 @@ I'm Paulo Roberto Marques. I'm a coder.
 <div style="display: flex;" align="center">
   
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=prmarquesz&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=github_dark" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prmarquesz&langs_count=5&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prmarquesz&langs_count=10&layout=compact&theme=github_dark&hide_border=true" />
   <!--
   ![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=prmarquesz&show_icons=true&theme=tokyonight)
   
