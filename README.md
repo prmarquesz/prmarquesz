@@ -5,8 +5,8 @@
 I'm Paulo Roberto Marques. I'm a coder. 
   
 - 👨‍🚀 Cadet at [@42 São Paulo](https://www.42sp.org.br/) 
-- 🌱 I’m currently learning UNIX Processes, Linux, Bash, C and Computer Science
-- 🔭 I’m currently working on **minishell**
+- 🌱 I’m currently learning UNIX Threads, Linux, C and Computer Science
+- 🔭 I’m currently working on **[philosophers](https://github.com/prmarquesz/philosophers)**
 </header>
 
 <main><!-- Academic -->
